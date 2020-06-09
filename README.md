@@ -55,3 +55,7 @@ CREATE DATABASE <name that you want your database to be named>;
 5. Postgresql
 6. MDBootstrap
 7. Django Framework
+
+## Contact
+- email : hudsohukish@gmail.com
+
