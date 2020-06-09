@@ -20,3 +20,17 @@ This application that allows a user to post their projects they have created and
 |  Program navigates to the vote modal form 	                              |  Click on Vote button 	                     |  A vote modal form pops up                                          |
 |  Program should load the live site on a new tab 	                          |  Click on View Site/Live Project Link       	|  Live site of a specific project loads                           |
 |  User is redirected to the Profile Page                                  	|  User clicks Profile on the Navbar dropdown   	|  Program opens Profile page with all users information including their projects   |
+
+
+## Setup Instructions
+
+Use the folllowing commands for the project to be in use.
+* git clone `https://github.com/hukish/awards.git`
+* install `python 3.6`
+* Install [Postgresql](https://www.postgresql.org/download/)
+* cd AWARDS
+* Create virtual enviroment using `virtualenv venv`
+* Navigate to the virtual environment using `source venv/bin/activate`
+* `atom .`  //For those using atom text editor.
+* `code .`  //For those using Visual Studio editor.
+
