@@ -45,3 +45,13 @@ CREATE DATABASE <name that you want your database to be named>;
 ```
 - Run `python3.6 manage.py runserver`
 - Access the application on this localhost address `http://127.0.0.1:8000`
+
+## Technologies used
+
+1. Python 3.6 
+2. Bootstrap
+3. HTML
+4. CSS
+5. Postgresql
+6. MDBootstrap
+7. Django Framework
