@@ -34,3 +34,14 @@ Use the folllowing commands for the project to be in use.
 * `atom .`  //For those using atom text editor.
 * `code .`  //For those using Visual Studio editor.
 
+
+## Install dependancies
+Install dependancies that will create an environment for the app to run `pip install -r requirements.txt`
+
+### Create the Database
+```
+psql
+CREATE DATABASE <name that you want your database to be named>;
+```
+- Run `python3.6 manage.py runserver`
+- Access the application on this localhost address `http://127.0.0.1:8000`
