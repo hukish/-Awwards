@@ -59,3 +59,5 @@ CREATE DATABASE <name that you want your database to be named>;
 ## Contact
 - email : hudsohukish@gmail.com
 
+### License  & Copyright information
+Copyright (c) 2020 hukish
